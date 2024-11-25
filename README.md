@@ -124,8 +124,8 @@ This script is released under the MIT License. See the LICENSE file for details.
 
 ## Author
 
-[Your Name]
-[Your Email]
+Kfir Amar
+kfira2002@gmail.com
 
 ## Version History
 
