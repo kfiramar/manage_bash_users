@@ -23,7 +23,7 @@ A Bash script for managing users and groups in Linux systems with an interactive
 
 1. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/yourusername/user-management/main/user_management.sh
+wget https://raw.githubusercontent.com/kfiramar/manage_bash_users/main/user_management.sh
 ```
 
 2. Make the script executable:
